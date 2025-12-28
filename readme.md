@@ -13,3 +13,5 @@ put the same file name of your icon.
 You can add details in: details=""
 
 And that's it, you can run it with a .bat file, to keep it open.
+
+<img height="500" alt="paint" width="400" src="screenshot.png"/> 
