@@ -1,4 +1,4 @@
-# V2 !
+# The V2 of FDS is Avaible Now!
 Now there is a config.json, with some settings.
 
 ## Initial Setup:
